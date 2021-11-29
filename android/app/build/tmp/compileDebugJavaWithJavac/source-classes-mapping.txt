@@ -1,0 +1,14 @@
+com/tabanddrawerredux/MainApplication.java
+ com.tabanddrawerredux.MainApplication
+ com.tabanddrawerredux.MainApplication$1
+com/tabanddrawerredux/MainActivity.java
+ com.tabanddrawerredux.MainActivity
+com/tabanddrawerredux/BuildConfig.java
+ com.tabanddrawerredux.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/tabanddrawerredux/ReactNativeFlipper.java
+ com.tabanddrawerredux.ReactNativeFlipper
+ com.tabanddrawerredux.ReactNativeFlipper$1
+ com.tabanddrawerredux.ReactNativeFlipper$2
+ com.tabanddrawerredux.ReactNativeFlipper$2$1
